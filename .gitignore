@@ -1,3 +1,11 @@
+.env
+*.zip
+.idea/
+.venv/
+build/
+chroma/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
